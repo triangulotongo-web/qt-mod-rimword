@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QT_TerminationBeginMessage>¡{0} ha entrado en fase de Terminación! Vigila la barra de carga y pulsa "Esquivar" cuando se ponga roja.</QT_TerminationBeginMessage>
+  <QT_DodgedMessage>¡Esquivado a tiempo! QT reinicia su carga.</QT_DodgedMessage>
+  <QT_DodgedTooEarlyMessage>Demasiado pronto. Espera a que la barra esté roja.</QT_DodgedTooEarlyMessage>
+  <QT_TerminationDetonatedMessage>¡QT ha detonado! La onda expansiva ha arrasado la zona.</QT_TerminationDetonatedMessage>
+  <QT_ArrivalLetterLabel>QT ha llegado</QT_ArrivalLetterLabel>
+  <QT_ArrivalLetterText>Una visitante inusualmente alegre llamada QT se acerca a tu colonia. Parece amistosa por ahora, pero hay algo inquietante en su sonrisa.</QT_ArrivalLetterText>
+</LanguageData>

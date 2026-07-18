@@ -1,0 +1,9 @@
+C:\Users\trian\Downloads\QT_v2\QTTermination\1.6\Assemblies\QTTermination.dll
+C:\Users\trian\Downloads\QT_v2\QTTermination\1.6\Assemblies\QTTermination.pdb
+C:\Users\trian\Downloads\QT_v2\QTTermination\Source\QTTermination\obj\Debug\QTTermination.csproj.AssemblyReference.cache
+C:\Users\trian\Downloads\QT_v2\QTTermination\Source\QTTermination\obj\Debug\QTTermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trian\Downloads\QT_v2\QTTermination\Source\QTTermination\obj\Debug\QTTermination.AssemblyInfoInputs.cache
+C:\Users\trian\Downloads\QT_v2\QTTermination\Source\QTTermination\obj\Debug\QTTermination.AssemblyInfo.cs
+C:\Users\trian\Downloads\QT_v2\QTTermination\Source\QTTermination\obj\Debug\QTTermination.csproj.CoreCompileInputs.cache
+C:\Users\trian\Downloads\QT_v2\QTTermination\Source\QTTermination\obj\Debug\QTTermination.dll
+C:\Users\trian\Downloads\QT_v2\QTTermination\Source\QTTermination\obj\Debug\QTTermination.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QT_TerminationBeginMessage>{0} has entered Termination phase! Watch the charge bar and press "Dodge" once it turns red.</QT_TerminationBeginMessage>
+  <QT_DodgedMessage>Dodged in time! QT's charge resets.</QT_DodgedMessage>
+  <QT_DodgedTooEarlyMessage>Too early. Wait until the bar turns red.</QT_DodgedTooEarlyMessage>
+  <QT_TerminationDetonatedMessage>QT has detonated! The blast wave tore through the area.</QT_TerminationDetonatedMessage>
+  <QT_ArrivalLetterLabel>QT has arrived</QT_ArrivalLetterLabel>
+  <QT_ArrivalLetterText>An unusually cheerful visitor named QT is approaching your colony. She seems friendly for now, but there's something unsettling about her smile.</QT_ArrivalLetterText>
+</LanguageData>

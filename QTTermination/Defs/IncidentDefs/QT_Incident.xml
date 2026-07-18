@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <IncidentDef>
+    <defName>QT_Visit</defName>
+    <label>visita de QT</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>QTTermination.IncidentWorker_QTVisit</workerClass>
+    <baseChance>0.6</baseChance>
+    <minRefireDays>15</minRefireDays>
+    <earliestDay>6</earliestDay>
+    <letterText>Una figura de aspecto amistoso se acerca a tu colonia. Dice llamarse QT. Parece encantadora... quizás demasiado.</letterText>
+    <letterLabel>QT ha llegado</letterLabel>
+    <letterDef>PositiveEvent</letterDef>
+  </IncidentDef>
+
+</Defs>

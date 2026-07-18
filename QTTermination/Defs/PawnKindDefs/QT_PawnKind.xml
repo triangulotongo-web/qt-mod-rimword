@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <PawnKindDef>
+    <defName>QT_PawnKind</defName>
+    <label>QT</label>
+    <race>Human</race>
+    <combatPower>2600</combatPower>
+    <isFighter>true</isFighter>
+    <canBeSapper>false</canBeSapper>
+    <allowInMechClusters>false</allowInMechClusters>
+    <apparelMoney>0~0</apparelMoney>
+    <weaponMoney>0~0</weaponMoney>
+    <techHediffsMoney>0~0</techHediffsMoney>
+    <itemQuality>Legendary</itemQuality>
+    <defaultFactionType>PlayerColony</defaultFactionType>
+    <forcedTraits>
+      <li>
+        <def>TooSmart</def>
+      </li>
+    </forcedTraits>
+    <fixedGender>Female</fixedGender>
+  </PawnKindDef>
+
+</Defs>

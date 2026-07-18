@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\trian\\Downloads\\QT_v2\\QTTermination\\Source\\QTTermination\\QTTermination.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\trian\\Downloads\\QT_v2\\QTTermination\\Source\\QTTermination\\QTTermination.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\trian\\Downloads\\QT_v2\\QTTermination\\Source\\QTTermination\\QTTermination.csproj",
+        "projectName": "QTTermination",
+        "projectPath": "C:\\Users\\trian\\Downloads\\QT_v2\\QTTermination\\Source\\QTTermination\\QTTermination.csproj",
+        "packagesPath": "C:\\Users\\trian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trian\\Downloads\\QT_v2\\QTTermination\\Source\\QTTermination\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
